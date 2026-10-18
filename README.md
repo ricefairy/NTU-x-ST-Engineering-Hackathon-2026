@@ -1,2 +1,2 @@
 # NTU-x-ST-Engineering-Hackathon-2026
-source code
+source code + project documentation
